@@ -1,6 +1,24 @@
----
-owner-repo: enderzcx/superx
-desc:   Agent-friendly CLI wrapper for Grok Build native X tools 
----
-
 # superx
+
+Agent-friendly CLI wrapper for Grok Build native X tools
+
+- **Upstream**: <https://github.com/enderzcx/superx>
+- **Homepage**: <>
+- **Latest release**: `` (n/a)
+- **Last commit**: 2026-07-09
+- **License**: MIT
+- **Stars**: 6 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 1
+
+## Installation
+
+```sh
+x install superx
+```
+
+See <https://x-cmd.com/install/superx> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:52:45Z._
