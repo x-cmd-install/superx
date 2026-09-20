@@ -4,7 +4,7 @@
 
 Agent-friendly CLI wrapper for Grok Build native X tools
 
-![superx](https://repo.x-cmd.io/superx.svg)
+[![x-cmd/install — superx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/superx.svg)](https://x-cmd.com/install/superx)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install superx
 
 ## Code insight
 
-Total: **1,794** lines of code across **12** files in the top 5 languages.
+Total: **1,832** lines of code across **12** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,714 | 17 | 219 | 5 |
+| Python | 1,752 | 17 | 225 | 5 |
 | Json | 50 | 0 | 0 | 1 |
 | Toml | 30 | 0 | 3 | 1 |
 | Markdown | 0 | 554 | 280 | 5 |
@@ -34,18 +34,18 @@ Total: **1,794** lines of code across **12** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 11
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 11 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 0 | 0 | 11 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 13 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 13 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 0 | 0 | 13 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for superx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:48:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:06:41Z._

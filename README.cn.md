@@ -4,7 +4,7 @@
 
 Agent-friendly CLI wrapper for Grok Build native X tools
 
-![superx](https://repo.x-cmd.io/superx.svg?lang=zh)
+[![x-cmd/install — superx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/superx.svg?lang=zh)](https://x-cmd.com/install/superx)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install superx
 
 ## 代码洞察
 
-合计: **1,794** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
+合计: **1,832** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 1,714 | 17 | 219 | 5 |
+| Python | 1,752 | 17 | 225 | 5 |
 | Json | 50 | 0 | 0 | 1 |
 | Toml | 30 | 0 | 3 | 1 |
 | Markdown | 0 | 554 | 280 | 5 |
@@ -34,18 +34,18 @@ x install superx
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 11
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 13
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 11 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 0 | 0 | 11 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 13 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 13 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 0 | 0 | 13 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ superx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:48:24Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:06:41Z._
