@@ -40,12 +40,12 @@ Total: **1,832** lines of code across **12** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-16 | 0 | 0 | 0 | 0 | 0 | 13 |
-| 360d | 2025-11-17 | 0 | 0 | 0 | 0 | 0 | 13 |
-| last720d | 2024-11-22 | 0 | 0 | 0 | 0 | 0 | 13 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-17 | 0 | 0 | 0 | 0 | 0 | 13 |
+| 360d | 2025-11-18 | 0 | 0 | 0 | 0 | 0 | 13 |
+| last720d | 2024-11-23 | 0 | 0 | 0 | 0 | 0 | 13 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for superx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:32:15Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:45:16Z._
